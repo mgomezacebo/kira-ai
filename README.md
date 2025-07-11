@@ -34,8 +34,6 @@ Nueva web/
 ├── evolucion.html      # Página de evolución (Arimo → Kira AI)
 ├── chat.html          # Página de chat a pantalla completa
 ├── V1.png             # Logo de Kira AI
-├── about.txt          # Información técnica del proyecto
-├── promt.txt          # Especificaciones del proyecto
 └── README.md          # Este archivo
 ```
 
