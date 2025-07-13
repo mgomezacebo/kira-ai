@@ -24,7 +24,7 @@ Kira AI es un asistente de inteligencia artificial avanzado basado en la tecnolo
 - **HTML5**: Estructura semántica
 - **Tailwind CSS**: Framework de estilos moderno
 - **JavaScript**: Interactividad y animaciones
-- **Responsive Design**: Optimizado para móviles y desktop
+- **Responsive Design**: Optimizado para móviles y dispositivos de escritorio
 
 ## 📁 Estructura del Proyecto
 
