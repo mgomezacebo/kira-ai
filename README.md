@@ -29,7 +29,7 @@ Kira AI es un asistente de inteligencia artificial avanzado basado en la tecnolo
 ## 📁 Estructura del Proyecto
 
 ```
-Nueva web/
+Kira AI/
 ├── index.html          # Página principal de presentación
 ├── evolucion.html      # Página de evolución (Arimo → Kira AI)
 ├── chat.html          # Página de chat a pantalla completa
