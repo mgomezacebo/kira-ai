@@ -87,7 +87,7 @@ El chat se conecta al modelo GPT-4o-mini mediante la plataforma **Chatbase.co**,
 ### Paleta de Colores
 - **Fondo**: Blanco (#ffffff)
 - **Texto**: Gris oscuro (#1f2937)
-- **Acentos**: Gradientes azul-púrpura
+- **Acentos**: Graduados de azul-púrpura
 - **Elementos**: Grises y azules
 
 ## 📱 Responsive Design
@@ -137,8 +137,7 @@ Este proyecto está desarrollado por Martín Gómez-Acebo. Para más informació
 ### Arimo → Kira AI
 - **Arimo**: Versión anterior basada en GPT-3.5
 - **Kira AI**: Nueva versión potenciada por GPT-4o-mini
-- **Mejoras**: +40% precisión, +60% velocidad, +50% confiabilidad
 
 ---
 
-**© 2024 Kira AI. Desarrollado con ❤️ por Martín Gómez-Acebo** 
+**© 2025 Kira AI. Desarrollado por Martín Gómez-Acebo** 
