@@ -33,7 +33,8 @@ Kira AI/
 ├── index.html          # Página principal de presentación
 ├── evolucion.html      # Página de evolución (Arimo → Kira AI)
 ├── chat.html          # Página de chat a pantalla completa
-├── V1.png             # Logo de Kira AI
+├── kira-logo.png             # Logo de Kira AI
+├── LICENSE.md             # Licencia
 └── README.md          # Este archivo
 ```
 
@@ -141,3 +142,4 @@ Este proyecto está desarrollado por Martín Gómez-Acebo. Para más informació
 ---
 
 **© 2025 Kira AI. Desarrollado por Martín Gómez-Acebo** 
+
